@@ -1,0 +1,18 @@
+***********STUDENT GRADE CALCULATOR***********
+Enter student name:Madeena Beebi
+Enter Python marks:98
+Enter SQL marks:95
+Enter HTML marks:89
+Enter CSS marks:92
+Enter JavaScript marks:90
+
+********STUDENT RESULT*********
+Student Name: Madeena Beebi
+Python: 98
+SQL: 95
+HTML: 89
+CSS: 92
+JavaScript: 90
+Total Marks: 464 / 500
+Percentage: 92.8 %
+Grade: A+
